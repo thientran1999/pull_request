@@ -1,3 +1,3 @@
 # pull_request
 
-Welcme class! Here is an example of a pull request!
+Welcome class! Here is an example of a pull request!
